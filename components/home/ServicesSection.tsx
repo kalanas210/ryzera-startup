@@ -14,6 +14,7 @@ import {
 import ServiceCard from "./ServiceCard";
 
 const services = [
+    //services section updated
   {
     id: "government",
     title: "Government Software Projects",
