@@ -62,7 +62,7 @@ export default function ClientsSection() {
             <span className="text-blue-500">Work With</span>
           </h2>
           <p className="text-lg text-white/70 max-w-2xl mx-auto">
-            We partner with organizations across different sectors to deliver innovative technology solutions.
+            We partner with organizations across different sectors to deliver innovative technology solutions with AI.
           </p>
         </motion.div>
         
