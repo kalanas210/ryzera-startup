@@ -55,7 +55,7 @@ export default function Navigation() {
       <motion.nav
         style={{
           width: navWidth,
-          backgroundColor: navBackground,
+          backgroundColor: navBackground,// nav bg color
           marginTop: navMargin,
         }}
         className="flex items-center justify-between h-16 rounded-full backdrop-blur-md border border-white/10 px-4 md:px-8"
