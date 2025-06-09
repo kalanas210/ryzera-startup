@@ -28,7 +28,7 @@ export default function ParticleBackground() {
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;
       
-      // Reinitialize particles when canvas is resized
+      // Reinitialize particles when canvas is resized and
       initParticles();
     };
     
