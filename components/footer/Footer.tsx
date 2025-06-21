@@ -78,14 +78,14 @@ export default function Footer() {
               </div>
               <div className="flex items-center">
                 <Phone className="text-blue-500 mr-3 h-5 w-5" />
-                <a href="tel:+94112345678" className="text-white/70 hover:text-white transition-colors">
-                  +94 11 234 5678
+                <a href="tel:+94702145081" className="text-white/70 hover:text-white transition-colors">
+                  +94 70 214 5081
                 </a>
               </div>
               <div className="flex items-start">
                 <MapPin className="text-blue-500 mr-3 h-5 w-5 mt-1" />
                 <address className="text-white/70 not-italic">
-                  42 Tech Avenue, Colombo 03,<br /> Sri Lanka
+                  115/2, Ratmalana , Colombo,<br /> Sri Lanka
                 </address>
               </div>
             </div>
